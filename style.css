@@ -33,13 +33,15 @@
     outline: none;
     font-size: 20px;
     margin-top: 30px;
+    border-radius: 5px;
 }
 #add_btn{
     background-color: burlywood;
-    padding: 15px;
+    padding: 16px;
     font-size: 18px;
     text-align: center;
     margin-top: 30px;
+    border-radius: 5px;
     /* width: 25vw; */
 }
 
@@ -47,12 +49,11 @@
 
 #display{
     display: none;
-    background-color: blueviolet;
+    background-color: rgb(172, 142, 200);
     width: 70vw;
     margin: auto;
     margin-top: 30px;
-    padding: 10px;
+    padding: 20px;
     border-radius: 5px;
-    /* display:flex;
-    flex-direction: column; */
+    /* justify-content: space-between; */
 }
