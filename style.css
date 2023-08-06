@@ -46,10 +46,13 @@
 /* *CSS FOR DISPLAY*********** */
 
 #display{
+    display: none;
     background-color: blueviolet;
     width: 70vw;
     margin: auto;
     margin-top: 30px;
     padding: 10px;
     border-radius: 5px;
+    /* display:flex;
+    flex-direction: column; */
 }
